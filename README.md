@@ -1,2 +1,2 @@
-# java-basico
+# java
 Repositório para aprendizagem
