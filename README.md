@@ -1,2 +1,2 @@
-# java
-Repositório para aprendizagem
+# Exercicos com a linguagem Java
+
